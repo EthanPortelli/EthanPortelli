@@ -1,5 +1,5 @@
 👋 About Me:
-- Currently a senior at Adelphi University, studying Computer Science 
+- Currently a senior at Adelphi University, studying Computer Science & Cybersecurity
 
 👀 Interested in:
 - Information Technology
