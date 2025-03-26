@@ -7,7 +7,7 @@
 - Web Development
 
 🛠 Tech Stack:
-- Languages: Python, Java, HTML, CSS, JavaScript (Node.js & Express.js)
+- Languages: Python, Java, C, C++, HTML, CSS, JavaScript (Node.js & Express.js)
 - Databases: MySQL, MariaDB
 - Environments: Windows, Linux
 
