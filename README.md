@@ -7,9 +7,9 @@
 - Web Development
 
 🛠 Tech Stack:
-- NodeJs
-- 
+- Languages: Python, Java, HTML, CSS, JavaScript (Node.js & Express.js)
+- Databases: MySQL, MariaDB
+- Environments: Windows, Linux
 
 📫 How to reach me:
 - Email: ethanp4772@gmail.com
-- 
