@@ -16,3 +16,4 @@
 📫 How to reach me:
 - Email: ethanp4772@gmail.com
 - Phone #: +1 347-924-0224
+- LinkedIn: https://www.linkedin.com/in/ethanportelli/
